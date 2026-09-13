@@ -1,0 +1,1 @@
+Use this starter code under the MIT License. Third-party services, APIs, models, data sources, and marketplaces have their own terms and licenses; those are not overridden by this file.
